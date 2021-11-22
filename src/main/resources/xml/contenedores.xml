@@ -1,0 +1,25 @@
+<pojo.ListaContenedor>
+  <contenedores>
+    <pojo.Contenedor>
+      <id>1</id>
+      <tamanyo>100</tamanyo>
+      <tipo__mercancia>Decoración de Navidad</tipo__mercancia>
+      <descripcion>Adornos Navideños</descripcion>
+      <prioridad>BAJA</prioridad>
+    </pojo.Contenedor>
+    <pojo.Contenedor>
+      <id>2</id>
+      <tamanyo>150</tamanyo>
+      <tipo__mercancia>Decoración de Cocina</tipo__mercancia>
+      <descripcion>Muebles de cocina</descripcion>
+      <prioridad>MEDIA</prioridad>
+    </pojo.Contenedor>
+    <pojo.Contenedor>
+      <id>3</id>
+      <tamanyo>50</tamanyo>
+      <tipo__mercancia>Ropa de Running</tipo__mercancia>
+      <descripcion>Tallas hasta 3XL</descripcion>
+      <prioridad>MEDIA</prioridad>
+    </pojo.Contenedor>
+  </contenedores>
+</pojo.ListaContenedor>
